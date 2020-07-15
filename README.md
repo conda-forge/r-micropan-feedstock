@@ -3,9 +3,9 @@ About r-micropan
 
 Home: https://CRAN.R-project.org/package=micropan
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A collection of functions for computations and visualizations of microbial pan-genomes.
 
