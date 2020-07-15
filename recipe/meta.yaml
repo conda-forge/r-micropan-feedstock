@@ -47,7 +47,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=micropan
-  license: GPL-2
+  license: GPL-2.0-only
   summary: A collection of functions for computations and visualizations of microbial pan-genomes.
   license_family: GPL2
   license_file:
