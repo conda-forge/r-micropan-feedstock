@@ -1,11 +1,11 @@
-About r-micropan
-================
+About r-micropan-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-micropan-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=micropan
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-micropan-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of functions for computations and visualizations of microbial pan-genomes.
 
